@@ -2,7 +2,7 @@
 
 A modern, visually stunning analytics dashboard built for a fictional digital marketing platform, completed as part of a skills assessment.
 
-**Live Demo Link:** [Your Deployed Link Here](https://...)
+**Live Demo Link:** [Demo Link](https://...)
 
 ---
 
@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 1.  Clone the repository:
     ```sh
-    git clone [Your-Repo-Link]
+    git clone https://github.com/phani-kumar-sajja/ADmyBRAND-Assignment---Analytics-Dashboard/
     ```
 2.  Install NPM packages:
     ```sh
