@@ -2,7 +2,7 @@
 
 A modern, visually stunning analytics dashboard built for a fictional digital marketing platform, completed as part of a skills assessment.
 
-**Live Demo Link:** [Demo Link](https://...)
+**Live Demo Link:** [Demo Link](https://ad-my-brand-assignment-analytics-dashboard.vercel.app/)
 
 ---
 
